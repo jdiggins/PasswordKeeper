@@ -1,0 +1,10 @@
+Website: http://www.yahoo.com/
+Username: Username
+Password: Password
+Notes: just some notes
+
+Website: https://www.google.com/
+Username: googleUser
+Password: googlePass23
+Notes: Keep these safe please
+
