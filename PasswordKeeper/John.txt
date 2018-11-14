@@ -1,5 +1,5 @@
 Website: http://www.google.com/
 Username: JimmyJo
 Password: justapassword
-Notes: I fuckin love google!
+Notes: I love google!
 
